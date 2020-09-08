@@ -33,3 +33,17 @@ Hi. I like to learn new things and I want to constantly develop in my profession
 GitHub: [GlueSanchez](https://github.com/GlueSanchez)
 
 CodeWars: [Profile](https://www.codewars.com/users/GlueSanchez)
+
+## Experience
+
+You can check my github or codewars.
+
+## Education
+
+2015-2019 - Chervonohrad Mining and Economic College - Software development
+
+2019-2021 - National Forestry Universicy Ukraine - Information systems and technologies
+
+## English 
+
+Level - A2, but I keep learn English .
